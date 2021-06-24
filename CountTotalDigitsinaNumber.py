@@ -4,7 +4,7 @@ n = 1
 Output: 1
 Explanation: Number of digit in 1 is 1.
   
-Test Case 02:
+Test Case 02 :
 n  = 99999
 Output: 5
 Explanation:Number of digit in 99999 is 5.
