@@ -1,3 +1,5 @@
+
+#Solution:
 def TOH(n, A, B, C):
   
   if n == 1:
